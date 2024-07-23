@@ -20,6 +20,12 @@ Below is a graphical representation of the project:
 ![Screenshot 2024-07-23 201607](https://github.com/user-attachments/assets/59d441e6-02d6-45e2-9d5c-d8a45eaa1ab0)
 
 
+![Screenshot 2024-07-23 205708](https://github.com/user-attachments/assets/c2ff7fa9-0dd2-42c0-a6fc-0c8762c83a1f)
+
+
+![Screenshot 2024-07-23 205754](https://github.com/user-attachments/assets/46455767-cef6-4b35-bfad-01a8c7743ebf)
+
+
 ![Screenshot 2024-07-23 201632](https://github.com/user-attachments/assets/c6d00e23-e4a0-40b3-8ccc-88c5f768e929)
 
 
@@ -33,6 +39,12 @@ Below is a graphical representation of the project:
 
 
 ![Screenshot 2024-07-23 201838](https://github.com/user-attachments/assets/7ece9c1b-1171-41ab-8689-77ee3f92a41e)
+
+
+![Screenshot 2024-07-23 205258](https://github.com/user-attachments/assets/97cd9d2e-efa9-4254-a0bb-94393519d3a9)
+
+
+![Screenshot 2024-07-23 205457](https://github.com/user-attachments/assets/756d1bc3-0eb2-4ac5-b903-d4eac376444d)
 
 
 
